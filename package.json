@@ -1,6 +1,6 @@
 {
   "name": "hxmlsmarketplace",
-  "version": "2.7.0",
+  "version": "3.0.4",
   "description": "hxMLS's Marketplace",
   "main": "index.js",
   "repository": {
