@@ -1,11 +1,11 @@
 {
-  "name": "marketplace",
+  "name": "hxmlsmarketplace",
   "version": "2.7.0",
-  "description": "Decentraland's Marketplace",
+  "description": "hxMLS's Marketplace",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/decentraland/marketplace.git"
+    "url": "git+https://github.com/homesteadio/hxmlsmarketplace.git"
   },
   "dependencies": {}
 }
